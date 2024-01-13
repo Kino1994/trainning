@@ -7,3 +7,15 @@
 - Kafka/Redpanda/RabbitMQ
 - Amazon SQS
 - Kinesis
+
+# Software Trainning
+
+# IaC Trainning
+
+# Arch Trainning
+
+# DevOps Trainning
+
+# AI Trainning
+
+# Blockchain Trainning
