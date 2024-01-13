@@ -10,11 +10,13 @@
 
 # Software Trainning
 
+# Cloud Trainning
+
 # IaC Trainning
 
-# Arch Trainning
-
 # DevOps Trainning
+
+# Arch Trainning
 
 # AI Trainning
 
